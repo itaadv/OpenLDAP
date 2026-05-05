@@ -53,7 +53,7 @@ Ensure the following prerequisites are met before executing the script:
 1. Clone the `viya4-openldap` repository
 
   ```bash
-  git clone https://github.com/tonineri/viya4-openldap
+  git clone https://github.com/itaadv/viya4-openldap
   ```
 
 2. Execute the script, specifying the desired namespace for OpenLDAP
